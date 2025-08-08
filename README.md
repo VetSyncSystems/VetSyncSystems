@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Welcome to VetSync Systems
 
-<!--
-**VetSyncSystems/VetSyncSystems** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**VetSync Systems** is a Service‑Disabled Veteran‑Owned IT consulting firm in San Jose, CA.  
+We specialize in workflow optimization, process improvement, and AI‑enabled solutions for government and enterprise.
 
-Here are some ideas to get you started:
+## Core Services
+- IT Consulting & Process Improvement
+- Workflow Automation (RFP parsing → CRM integration)
+- AI & Data Solutions for decision support
+- GovCon Support: compliance matrices, proposal drafting, NAICS‑targeted opportunity tracking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Repos
+- vetsyncsystems-site — public website (GitHub Pages)
+- govcon-automation — (private) SAM.gov Radar + RFP Decomposer
+
+## Contact
+Owner & IT Consultant: Sudip Ghimire  
+sudip@vetsyncsystems.com • www.vetsyncsystems.com • San Jose, CA
+
+> Precision, compliance, and innovation — powering success for government and enterprise clients.
