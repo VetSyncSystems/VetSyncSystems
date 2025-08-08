@@ -15,6 +15,7 @@ We specialize in workflow optimization, process improvement, and AI‑enabled so
 
 ## Contact
 Owner & IT Consultant: Sudip Ghimire  
-sudip@vetsyncsystems.com • www.vetsyncsystems.com • San Jose, CA
+sudip@vetsyncsystems.com 
+www.vetsyncsystems.com • San Jose, CA
 
 > Precision, compliance, and innovation — powering success for government and enterprise clients.
